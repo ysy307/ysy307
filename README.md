@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ysy307)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ysy307&theme=2077)
 <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysy307&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
-[![trophy](https://github-profile-trophy.vercel.app/?username=ysy307&theme=onedark)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=tokyonight)
 
 <!--
 **ysy307/ysy307** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
